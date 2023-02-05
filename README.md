@@ -1,5 +1,8 @@
 ABCD(Any Body Can be a Designer)
 ---
+
+Last modified: 2023.02.05
+
 <p align="center"><img src="https://user-images.githubusercontent.com/75806377/216806082-164a0d58-d314-4f34-a17e-4f82bd518e77.png" height="300px" width="500px"></p>  
 
 ABCD는 'Any Body Can be a Designer'의 약자로 통합 그래픽 작업 플랫폼입니다.  
