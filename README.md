@@ -51,7 +51,7 @@ Image 속 다양한 요소들의 edge는 픽셀값이 급격히 변하는 부분
 원하는 그림에 대한 sketch를 얻고 싶을 때 해당 기능이 유용할 수 있는데요.  
 
 기존 edge detection을 위한 다양한 kernel들이 많이 존재합니다.  
-Robert filter, Sobel filter, Prewitt filter 등 다양한 HPF(High-Pass Filter)들이 존재하는데
+Robert filter, Sobel filter, Prewitt filter 등 다양한 HPF(High-Pass Filter)들이 존재하는데  
 저는 다양한 HPF와의 convolution 결과값들을 모두 사용하는 방향으로 최종 sketch를 제작하였습니다.  
 
 굳이 한 HPF와의 convolution한 값을 최종 sketch로 선택하지 않고 모든 결과값들을 사용하는 이유는  
