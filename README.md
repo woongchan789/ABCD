@@ -45,6 +45,8 @@ expander로 구성하여 원하는 메뉴를 클릭하여 다운로드할 수 �
 Create a new sketch
 ---
 Create a new sketch는 말 그대로 Sketch를 만드는 기능입니다.  
+사전에 배경을 먼저 제거하여 배경 속 불필요한 요소들까지 edge가 검출되지 않도록 구성하였는데요.  
+요건 배경을 제거하는 기능을 별도로 분리하였기에 자세한 설명은 뒤에서 설명드리겠습니다.  
 Image 속 다양한 요소들의 edge는 픽셀값이 급격히 변하는 부분이기에 미분을 통해 edge를 검출할 수 있습니다.  
 원하는 그림에 대한 sketch를 얻고 싶을 때 해당 기능이 유용할 수 있는데요.  
 
@@ -60,6 +62,28 @@ sktech는 어느 부분은 선의 굵기가 얇고 어느 부분은 굵은 즉, 
 최종 sketch를 제작하는 방식으로 보다 자연스러운 느낌의 sketch를 제작하였습니다.  
 </br>
 </br>
+
 ![최종발표자료-009](https://user-images.githubusercontent.com/75806377/216808074-a2068d44-6d5c-4eed-8efa-fa82c719e6cf.png)
 
 </br>
+
+Remove background
+---
+Remove background는 배경을 제거하는 즉, 누끼를 따는 작업입니다.  
+앞서 Create a new sketch 때도 Remove background function이 적용되었습니다.  
+
+해당 기능은 현재까지 많이 사용되며 Semantic segmentation의 목표와 부합합니다.  
+Instance와 Background를 분리하기 위함이 목적이며 보다 매끄럽고 확실한 segmentation을 위해  
+저는 U-Net을 기반으로 segmentation을 진행하였습니다.  
+
+U-Net은 expanding path와 정확한 localization을 위한 contracting path가 'U'자의 형태로 구성되어 있는 model이며  
+pixel-wise classification을 진행한 후 overlap-tile strategy, mirroring extrapolate, weight loss 등을 사용하여  
+배경을 제거하였습니다.  
+</br>
+</br>
+
+![최종발표자료-011](https://user-images.githubusercontent.com/75806377/216808456-59890fa9-5a2c-481c-bc1c-77428897b08d.png)
+
+~~(고양이, 썬더람쥐, 시바 너무 귀엽습니다..)~~
+</br>
+
