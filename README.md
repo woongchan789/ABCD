@@ -15,7 +15,7 @@ ABCD는 'Any Body Can be a Designer'의 약자로 통합 그래픽 작업 플랫
 4가지의 기능을 모두 포함한 ABCD 플랫폼은 streamlit으로 작업하였으며  
 Image classification and Providing the abstract image 부분에서는  
 input image의 class를 예측하여 그에 해당하는 abstract image(Illust, Sketch, Pictogram)을 제공하는 기능입니다.  
-abstract image는 AI-HUB([Data](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=617))에서 다운로드가 가능하나 저작권 침해 문제가 발생할 수 있기에  
+abstract image는 [AI-HUB](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=617)에서 다운로드가 가능하나 저작권 침해 문제가 발생할 수 있기에  
 만약 활용하신다면 직접 다운받으신 후 local 환경에서 구동하시길 바랍니다.  
   
 </br>
@@ -80,10 +80,37 @@ U-Net은 expanding path와 정확한 localization을 위한 contracting path가 
 pixel-wise classification을 진행한 후 overlap-tile strategy, mirroring extrapolate, weight loss 등을 사용하여  
 배경을 제거하였습니다.  
 </br>
+~~(고양이, 썬더람쥐, 시바 너무 귀엽습니다..)~~
+
 </br>
 
 ![최종발표자료-011](https://user-images.githubusercontent.com/75806377/216808456-59890fa9-5a2c-481c-bc1c-77428897b08d.png)
 
-~~(고양이, 썬더람쥐, 시바 너무 귀엽습니다..)~~
 </br>
 
+Neural Style Transfer
+---
+
+
+Neural Style Transfer는 Leon A. Gatys의 논문 'A Neural Algorithm of Artistic Style(2015)'에서  
+소개된 개념이며 화가의 화풍을 기반으로 그림을 재구성하는 알고리즘입니다.  
+해당 논문을 보면서 ABCD 플랫폼 안에서 '나도 그림을 만들 수 있다'와 같이 개인화된 경험을 제공하고자  
+기능을 실제로 구현해봤으며 특정 과거의 유명했던 화가의 화풍이 아닐지라도 본인이 원하는 화풍을  
+upload하여 만들어 볼 수 있다는 점에서 매력적인 알고리즘을 ABCD에서 실제로 구현해보았습니다.  
+
+Neural style transfer는 VGG-19를 기반으로 하고 있으며  
+보다 쉽게 이해하자면 '화풍의 느낌을 살려 그림을 변화시켜보자' 입니다.  
+
+우선 random noise로 empty canvas를 만든 후 Random noise(결과값), Style image(화풍),  
+Content image(변화시키고자 하는 이미지) 총 3개를 각각 VGG-19 기반의 신경망에 convolution합니다.  
+이 때, 중요한 점은 화풍의 느낌을 살린 이미지이기에 content image의 detail한 요소들은 별로 중요하지 않게됩니다.  
+그래서 content image의 경우 detatil한 요소들이 살아있는 앞 layer 쪽의 convolution 결과값보다  
+반복적인 convolution을 통해 많이 뭉개져버린 뒷 layer 쪽의 convolution 결과값을 채택하여 random noise와의 MSE 값을 줄입니다.  
+Style image의 경우는 random하게 convolution layer 5개 정도를 선택하여 [Gram matrix](https://wansook0316.github.io/ds/dl/2020/09/18/computer-vision-15-Gram-Matrix.html)를 계산한 뒤 합산된 MSE 값을 줄이며  
+random noise는 반복적으로 수행하면서 화풍과 변화시키고자 하는 이미지 그 중간의 이미지로 향하게 됩니다.  
+
+</br>
+
+![최종발표자료-012](https://user-images.githubusercontent.com/75806377/216809383-cc9b5fa5-5618-4600-bbc0-eea9035cc815.png)
+
+</br>
