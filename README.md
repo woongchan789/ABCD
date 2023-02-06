@@ -115,5 +115,5 @@ random noise는 반복적으로 수행하면서 화풍과 변화시키고자 하
 </br>
 
 ![최종발표자료-012](https://user-images.githubusercontent.com/75806377/216809383-cc9b5fa5-5618-4600-bbc0-eea9035cc815.png)
-
+![image](https://user-images.githubusercontent.com/75806377/216960293-6cb2c7f4-5ffb-4842-bcbf-84f868af2af8.png)
 </br>
