@@ -36,12 +36,13 @@ Image classification and Providing the abstract image는 제가 직면하였던 
 Image를 upload할 경우 해당하는 class를 예측하는 단순 prediction하는 기능입니다.  
 
 Prediction 후에 class에 대한 Illust, Skecth, Pictogram을 제공하며    
-Image classification을 위해 Resnet-101 model을 활용하였고 해당하는 class에 대한 Illust, Skecth, Pictogram는  
+Image classification을 위해 Resnet-50 model을 활용하였고 해당하는 class에 대한 Illust, Skecth, Pictogram는  
 expander로 구성하여 원하는 메뉴를 클릭하여 다운로드할 수 있도록 구성하였습니다.  
 제가 사용한 데이터셋의 class는 영문명이기에 eng_class를 kor_class로 해석할 수 있도록 class_dict를 따로 구성하였습니다.  
 </br>
 </br>
-![최종발표자료-007](https://user-images.githubusercontent.com/75806377/216807627-3bbdc363-aa41-4833-bfe0-4719b2ceeb92.png)
+
+![최종발표자료_복사본-008](https://user-images.githubusercontent.com/75806377/216961850-94126eb5-11ce-4293-9185-d292cc82f253.png)
 
 </br>
 
