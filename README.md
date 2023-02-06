@@ -118,3 +118,24 @@ random noise는 반복적으로 수행하면서 화풍과 변화시키고자 하
 ![최종발표자료-012](https://user-images.githubusercontent.com/75806377/216809383-cc9b5fa5-5618-4600-bbc0-eea9035cc815.png)
 ![image](https://user-images.githubusercontent.com/75806377/216960293-6cb2c7f4-5ffb-4842-bcbf-84f868af2af8.png)
 </br>
+
+HOW TO USE?
+---
+
+- Install packages
+```Python
+pip install -r requirements.txt 
+```
+
+- path 수정  
+만약 local 환경에서 구동하시길 원하신다면 [1_Upload_and_Searching.py] 와 [5_Archive.py] 에서  
+데이터를 import하는 부분의 path를 다운받으신 경로에 맞게 수정해주시면 됩니다.
+
+- Tensorflow hub 문제 발생시  
+[4_Neural_style_transfer.py]에서 saved_model.pb가 없다고 오류가 뜰 경우  
+magenta_arbitrary-image-stylization-v1-256_2 를 tensorflow hub에서 다운받으신 후  
+없다고 뜬 경로에 맞게 copy&paste 하시면 됩니다.
+
+```Python
+streamlit run home.py
+```
