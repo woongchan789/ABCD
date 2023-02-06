@@ -20,7 +20,7 @@ Image classification and Providing the abstract image 부분에서는
 input image의 class를 예측하여 그에 해당하는 abstract image(Illust, Sketch, Pictogram)을 제공하는 기능입니다.  
 abstract image는 [AI-HUB](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=617)에서 다운로드가 가능하나 저작권 침해 문제가 발생할 수 있기에  
 만약 활용하신다면 직접 다운받으신 후 local 환경에서 구동하시길 바랍니다.  
-  
+
 </br>
 
 Image classification and Providing the abstract image
