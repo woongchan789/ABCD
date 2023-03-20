@@ -18,8 +18,8 @@ ABCD는 'Any Body Can be a Designer'의 약자로 통합 그래픽 작업 플랫
 4가지의 기능을 모두 포함한 ABCD 플랫폼은 streamlit으로 작업하였으며  
 Image classification and Providing the abstract image 부분에서는  
 input image의 class를 예측하여 그에 해당하는 abstract image(Illust, Sketch, Pictogram)을 제공하는 기능입니다.  
-abstract image는 [AI-HUB](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=617)에서 다운로드가 가능하나 저작권 침해 문제가 발생할 수 있기에  
-만약 활용하신다면 직접 다운받으신 후 local 환경에서 구동하시길 바랍니다.  
+abstract image는 [AI-HUB](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=617)에서 다운로드가 가능하며  
+저작권 침해 문제가 발생할 수 있기에 해당 streamlit webpage는 local 환경에서 구동하시길 바랍니다.  
 
 </br>
 
