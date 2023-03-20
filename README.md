@@ -123,11 +123,11 @@ HOW TO USE?
 ---
 
 - Install packages
-```Python
+```Python3
 pip install -r requirements.txt 
 ```
 
 - Run streamlit (Local)
-```Python
+```Python3
 streamlit run home.py
 ```
