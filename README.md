@@ -121,7 +121,11 @@ random noise는 반복적으로 수행하면서 화풍과 변화시키고자 하
 
 HOW TO USE?
 ---
-
+  
+Python: 3.7.13
+torch: 1.12.1
+cuda: 11.6
+  
 - Install packages
 ```Python3
 pip install -r requirements.txt 
