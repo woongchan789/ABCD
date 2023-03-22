@@ -15,9 +15,7 @@ ABCD는 'Any Body Can be a Designer'의 약자로 통합 그래픽 작업 플랫
 - Remove a background
 - Neural style transfer  
 
-4가지의 기능을 모두 포함한 ABCD 플랫폼은 streamlit으로 작업하였으며  
-Image classification and Providing the abstract image 부분에서는  
-input image의 class를 예측하여 그에 해당하는 abstract image(Illust, Sketch, Pictogram)을 제공하는 기능입니다.  
+4가지의 기능을 모두 포함한 ABCD 플랫폼은 streamlit으로 작업하였으며   
 abstract image는 [AI-HUB](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=617)에서 다운로드가 가능하며  
 실제 이미지 데이터를 획득하기 위해서는 별도의 데이터 사용신청서를 제출해야합니다.  
 이 repository에 upload한 파일들은 streamplit webpage를 구성한 .py 파일들과 model들의 .py  
