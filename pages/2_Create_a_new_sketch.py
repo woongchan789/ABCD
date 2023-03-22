@@ -91,10 +91,10 @@ else:
         array_255 = np.full(len(final_array), 255)
         final = np.abs(final_array - array_255)
 
-        final_img = np.array(final).reshape(w, h)
-        plt.imsave('new_sketch.jpeg', final_img, cmap=cm.gray)
+        final_img_black = np.array(final).reshape(w, h)
+        plt.imsave('final_white_sketch.jpeg', final_img_black, cmap=cm.gray)
         
-        img_white = cv2.imread('new_sketch.jpeg')
+        img_white = cv2.imread('final_white_sketch.jpeg')
         time.sleep(1)
         st.success('Done!')
 
