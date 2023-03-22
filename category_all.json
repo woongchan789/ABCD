@@ -1,0 +1,6040 @@
+{
+    "category": [
+        {
+            "ctg_id": "0001",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "거실가구",
+            "ctg_nm_level3": "장식장"
+        },
+        {
+            "ctg_id": "0002",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "거실가구",
+            "ctg_nm_level3": "TV거실장"
+        },
+        {
+            "ctg_id": "0003",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "거실가구",
+            "ctg_nm_level3": "거실테이블"
+        },
+        {
+            "ctg_id": "0004",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "거실가구",
+            "ctg_nm_level3": "사이드테이블"
+        },
+        {
+            "ctg_id": "0005",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "거실가구",
+            "ctg_nm_level3": "소파"
+        },
+        {
+            "ctg_id": "0006",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "거실가구",
+            "ctg_nm_level3": "거실의자"
+        },
+        {
+            "ctg_id": "0007",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "거실가구",
+            "ctg_nm_level3": "좌식의자"
+        },
+        {
+            "ctg_id": "0008",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "거실가구",
+            "ctg_nm_level3": "흔들의자"
+        },
+        {
+            "ctg_id": "0009",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "사무/학습용가구",
+            "ctg_nm_level3": "독서실책상"
+        },
+        {
+            "ctg_id": "0010",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "사무/학습용가구",
+            "ctg_nm_level3": "사무용 책상"
+        },
+        {
+            "ctg_id": "0011",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "사무/학습용가구",
+            "ctg_nm_level3": "일자형책상"
+        },
+        {
+            "ctg_id": "0012",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "사무/학습용가구",
+            "ctg_nm_level3": "협탁"
+        },
+        {
+            "ctg_id": "0013",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "사무/학습용가구",
+            "ctg_nm_level3": "캐비닛"
+        },
+        {
+            "ctg_id": "0014",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "사무/학습용가구",
+            "ctg_nm_level3": "책장"
+        },
+        {
+            "ctg_id": "0015",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "사무/학습용가구",
+            "ctg_nm_level3": "사무용의자"
+        },
+        {
+            "ctg_id": "0016",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "야외용가구",
+            "ctg_nm_level3": "벤치"
+        },
+        {
+            "ctg_id": "0017",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "야외용가구",
+            "ctg_nm_level3": "야외용의자(선베드)"
+        },
+        {
+            "ctg_id": "0018",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "주방수납장(상부, 하부장)"
+        },
+        {
+            "ctg_id": "0019",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "싱크대"
+        },
+        {
+            "ctg_id": "0020",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "침대"
+        },
+        {
+            "ctg_id": "0021",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "식탁"
+        },
+        {
+            "ctg_id": "0022",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "서랍장"
+        },
+        {
+            "ctg_id": "0023",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "스툴"
+        },
+        {
+            "ctg_id": "0024",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "옷장"
+        },
+        {
+            "ctg_id": "0025",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "2층침대"
+        },
+        {
+            "ctg_id": "0026",
+            "ctg_nm_level1": "가구",
+            "ctg_nm_level2": "주방침실가구",
+            "ctg_nm_level3": "화장대(+거울)"
+        },
+        {
+            "ctg_id": "0027",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "공기청정기"
+        },
+        {
+            "ctg_id": "0028",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "스탠드에어컨"
+        },
+        {
+            "ctg_id": "0029",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "벽걸이에어컨"
+        },
+        {
+            "ctg_id": "0030",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "잔디깎이"
+        },
+        {
+            "ctg_id": "0031",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "가습기"
+        },
+        {
+            "ctg_id": "0032",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "제습기"
+        },
+        {
+            "ctg_id": "0033",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "스탠드형 선풍기"
+        },
+        {
+            "ctg_id": "0034",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "천장형 선풍기"
+        },
+        {
+            "ctg_id": "0035",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "전기히터"
+        },
+        {
+            "ctg_id": "0036",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "라디에이터"
+        },
+        {
+            "ctg_id": "0037",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "계절가전",
+            "ctg_nm_level3": "서큘레이터"
+        },
+        {
+            "ctg_id": "0038",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "환풍기"
+        },
+        {
+            "ctg_id": "0039",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "전자레인지"
+        },
+        {
+            "ctg_id": "0040",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "가스레인지"
+        },
+        {
+            "ctg_id": "0041",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "가스레인지후드"
+        },
+        {
+            "ctg_id": "0042",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "믹서기 및 착즙기"
+        },
+        {
+            "ctg_id": "0043",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "오븐"
+        },
+        {
+            "ctg_id": "0044",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "에어프라이어"
+        },
+        {
+            "ctg_id": "0045",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "커피머신"
+        },
+        {
+            "ctg_id": "0046",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "전기밥솥"
+        },
+        {
+            "ctg_id": "0047",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "전기그릴"
+        },
+        {
+            "ctg_id": "0048",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "전기포트"
+        },
+        {
+            "ctg_id": "0049",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "토스터기"
+        },
+        {
+            "ctg_id": "0050",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "와인셀러"
+        },
+        {
+            "ctg_id": "0051",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "냉장고"
+        },
+        {
+            "ctg_id": "0052",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "김치냉장고"
+        },
+        {
+            "ctg_id": "0053",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "식기세척기"
+        },
+        {
+            "ctg_id": "0054",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "와플팬"
+        },
+        {
+            "ctg_id": "0055",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "음식물처리기"
+        },
+        {
+            "ctg_id": "0056",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "주방가전",
+            "ctg_nm_level3": "정수기(이온수기 포함)"
+        },
+        {
+            "ctg_id": "0057",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "생활가전",
+            "ctg_nm_level3": "통돌이세탁기"
+        },
+        {
+            "ctg_id": "0058",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "생활가전",
+            "ctg_nm_level3": "드럼세탁기"
+        },
+        {
+            "ctg_id": "0059",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "생활가전",
+            "ctg_nm_level3": "다리미"
+        },
+        {
+            "ctg_id": "0060",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "생활가전",
+            "ctg_nm_level3": "재봉틀"
+        },
+        {
+            "ctg_id": "0061",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "생활가전",
+            "ctg_nm_level3": "일반청소기"
+        },
+        {
+            "ctg_id": "0062",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "생활가전",
+            "ctg_nm_level3": "무선청소기"
+        },
+        {
+            "ctg_id": "0063",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "생활가전",
+            "ctg_nm_level3": "핸디형청소기"
+        },
+        {
+            "ctg_id": "0064",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "생활가전",
+            "ctg_nm_level3": "로봇청소기"
+        },
+        {
+            "ctg_id": "0065",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "TV"
+        },
+        {
+            "ctg_id": "0066",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "브라운관TV"
+        },
+        {
+            "ctg_id": "0067",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "빔프로젝터"
+        },
+        {
+            "ctg_id": "0068",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "DSLR 카메라"
+        },
+        {
+            "ctg_id": "0069",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "폴라로이드 카메라"
+        },
+        {
+            "ctg_id": "0070",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "디지털카메라"
+        },
+        {
+            "ctg_id": "0071",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "삼각대"
+        },
+        {
+            "ctg_id": "0072",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "캠코더"
+        },
+        {
+            "ctg_id": "0073",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "VR기기"
+        },
+        {
+            "ctg_id": "0074",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "영상가전",
+            "ctg_nm_level3": "리모콘"
+        },
+        {
+            "ctg_id": "0075",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "모니터(모니터 액세서리 포함)"
+        },
+        {
+            "ctg_id": "0076",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "노트북컴퓨터"
+        },
+        {
+            "ctg_id": "0077",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "태블릿PC "
+        },
+        {
+            "ctg_id": "0078",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "스마트폰"
+        },
+        {
+            "ctg_id": "0079",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "휴대전화플립형"
+        },
+        {
+            "ctg_id": "0080",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "스마트워치"
+        },
+        {
+            "ctg_id": "0081",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "휴대기기 보조배터리"
+        },
+        {
+            "ctg_id": "0082",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "키보드"
+        },
+        {
+            "ctg_id": "0083",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "타자기"
+        },
+        {
+            "ctg_id": "0084",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "마우스"
+        },
+        {
+            "ctg_id": "0085",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "프린터기"
+        },
+        {
+            "ctg_id": "0086",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "복합기"
+        },
+        {
+            "ctg_id": "0087",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "데스크탑컴퓨터"
+        },
+        {
+            "ctg_id": "0088",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "휴대전화(바형, 버튼식)"
+        },
+        {
+            "ctg_id": "0089",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "스캐너"
+        },
+        {
+            "ctg_id": "0090",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "유심카드"
+        },
+        {
+            "ctg_id": "0091",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "디지털기기",
+            "ctg_nm_level3": "USB"
+        },
+        {
+            "ctg_id": "0092",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "통신기기",
+            "ctg_nm_level3": "가정용유선전화기"
+        },
+        {
+            "ctg_id": "0093",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "통신기기",
+            "ctg_nm_level3": "가정용무선전화기"
+        },
+        {
+            "ctg_id": "0094",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "통신기기",
+            "ctg_nm_level3": "홈네트워크단말기"
+        },
+        {
+            "ctg_id": "0095",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "미용/헬스케어가전",
+            "ctg_nm_level3": "전기면도기"
+        },
+        {
+            "ctg_id": "0096",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "미용/헬스케어가전",
+            "ctg_nm_level3": "헤어드라이어"
+        },
+        {
+            "ctg_id": "0097",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "미용/헬스케어가전",
+            "ctg_nm_level3": "헤어스타일링 기기(고데기)"
+        },
+        {
+            "ctg_id": "0098",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "미용/헬스케어가전",
+            "ctg_nm_level3": "안마의자"
+        },
+        {
+            "ctg_id": "0099",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "미용/헬스케어가전",
+            "ctg_nm_level3": "손 건조기"
+        },
+        {
+            "ctg_id": "0100",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "미용/헬스케어가전",
+            "ctg_nm_level3": "손 소독기"
+        },
+        {
+            "ctg_id": "0101",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "차량용기기",
+            "ctg_nm_level3": "내비게이션"
+        },
+        {
+            "ctg_id": "0102",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "차량용기기",
+            "ctg_nm_level3": "주차정산기"
+        },
+        {
+            "ctg_id": "0103",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "스피커"
+        },
+        {
+            "ctg_id": "0104",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "LP플레이어"
+        },
+        {
+            "ctg_id": "0105",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "CD플레이어"
+        },
+        {
+            "ctg_id": "0106",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "오디오"
+        },
+        {
+            "ctg_id": "0107",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "유선이어폰"
+        },
+        {
+            "ctg_id": "0108",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "MP3 플레이어"
+        },
+        {
+            "ctg_id": "0109",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "라디오"
+        },
+        {
+            "ctg_id": "0110",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "무선이어폰"
+        },
+        {
+            "ctg_id": "0111",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "헤드폰"
+        },
+        {
+            "ctg_id": "0112",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "음향가전",
+            "ctg_nm_level3": "마이크"
+        },
+        {
+            "ctg_id": "0113",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "보안기기",
+            "ctg_nm_level3": "디지털도어록"
+        },
+        {
+            "ctg_id": "0114",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "보안기기",
+            "ctg_nm_level3": "CCTV"
+        },
+        {
+            "ctg_id": "0115",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "보안기기",
+            "ctg_nm_level3": "지문인식기"
+        },
+        {
+            "ctg_id": "0116",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "상업용기기",
+            "ctg_nm_level3": "신용카드 매출발행기"
+        },
+        {
+            "ctg_id": "0117",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "상업용기기",
+            "ctg_nm_level3": "현금인출기"
+        },
+        {
+            "ctg_id": "0118",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "상업용기기",
+            "ctg_nm_level3": "자판기"
+        },
+        {
+            "ctg_id": "0119",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "상업용기기",
+            "ctg_nm_level3": "POS 바코드 스캐너"
+        },
+        {
+            "ctg_id": "0120",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "기타기기",
+            "ctg_nm_level3": "드론"
+        },
+        {
+            "ctg_id": "0121",
+            "ctg_nm_level1": "가전/디지털",
+            "ctg_nm_level2": "기타기기",
+            "ctg_nm_level3": "거리측정기(골프용)"
+        },
+        {
+            "ctg_id": "0122",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "주방용 보관용기"
+        },
+        {
+            "ctg_id": "0123",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "머그컵"
+        },
+        {
+            "ctg_id": "0124",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "찻잔"
+        },
+        {
+            "ctg_id": "0125",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "물병"
+        },
+        {
+            "ctg_id": "0126",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "텀블러"
+        },
+        {
+            "ctg_id": "0127",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "맥주잔"
+        },
+        {
+            "ctg_id": "0128",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "보울(그릇)"
+        },
+        {
+            "ctg_id": "0129",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "감자칼"
+        },
+        {
+            "ctg_id": "0130",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "갈릭프레스"
+        },
+        {
+            "ctg_id": "0131",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "칵테일쉐이커"
+        },
+        {
+            "ctg_id": "0132",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "와인잔"
+        },
+        {
+            "ctg_id": "0133",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "와인오프너"
+        },
+        {
+            "ctg_id": "0134",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "와인디캔터"
+        },
+        {
+            "ctg_id": "0135",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "접시거치대"
+        },
+        {
+            "ctg_id": "0136",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "절구"
+        },
+        {
+            "ctg_id": "0137",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "도시락(용기)"
+        },
+        {
+            "ctg_id": "0138",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "비닐봉지"
+        },
+        {
+            "ctg_id": "0139",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "쟁반/트레이"
+        },
+        {
+            "ctg_id": "0140",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "얼음틀"
+        },
+        {
+            "ctg_id": "0141",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "냄비"
+        },
+        {
+            "ctg_id": "0142",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "가마솥"
+        },
+        {
+            "ctg_id": "0143",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "프라이팬/후라이팬"
+        },
+        {
+            "ctg_id": "0144",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "도마"
+        },
+        {
+            "ctg_id": "0145",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "숟가락"
+        },
+        {
+            "ctg_id": "0146",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "포크"
+        },
+        {
+            "ctg_id": "0147",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "젓가락"
+        },
+        {
+            "ctg_id": "0148",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "국자"
+        },
+        {
+            "ctg_id": "0149",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "주걱"
+        },
+        {
+            "ctg_id": "0150",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "주방용칼"
+        },
+        {
+            "ctg_id": "0151",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "채칼"
+        },
+        {
+            "ctg_id": "0152",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "빵칼"
+        },
+        {
+            "ctg_id": "0153",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "멀티쿠커"
+        },
+        {
+            "ctg_id": "0154",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "고무장갑"
+        },
+        {
+            "ctg_id": "0155",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "계량컵"
+        },
+        {
+            "ctg_id": "0156",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "저울"
+        },
+        {
+            "ctg_id": "0157",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "주전자/티포트"
+        },
+        {
+            "ctg_id": "0158",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "종이컵"
+        },
+        {
+            "ctg_id": "0159",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "식판"
+        },
+        {
+            "ctg_id": "0160",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "물티슈"
+        },
+        {
+            "ctg_id": "0161",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "앞치마"
+        },
+        {
+            "ctg_id": "0162",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "석쇠"
+        },
+        {
+            "ctg_id": "0163",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "항아리"
+        },
+        {
+            "ctg_id": "0164",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "음료용 빨대"
+        },
+        {
+            "ctg_id": "0165",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "비커"
+        },
+        {
+            "ctg_id": "0166",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "병따개"
+        },
+        {
+            "ctg_id": "0167",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "병뚜껑"
+        },
+        {
+            "ctg_id": "0168",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "주방용품",
+            "ctg_nm_level3": "부탄가스"
+        },
+        {
+            "ctg_id": "0169",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "일반칫솔"
+        },
+        {
+            "ctg_id": "0170",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "전동칫솔"
+        },
+        {
+            "ctg_id": "0171",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "치간칫솔"
+        },
+        {
+            "ctg_id": "0172",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "치실"
+        },
+        {
+            "ctg_id": "0173",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "세면대"
+        },
+        {
+            "ctg_id": "0174",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "변기"
+        },
+        {
+            "ctg_id": "0175",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "욕조"
+        },
+        {
+            "ctg_id": "0176",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "비데"
+        },
+        {
+            "ctg_id": "0177",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "샤워헤드(샤워기+호스)"
+        },
+        {
+            "ctg_id": "0178",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "수도꼭지"
+        },
+        {
+            "ctg_id": "0179",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "휴지걸이"
+        },
+        {
+            "ctg_id": "0180",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "변기솔"
+        },
+        {
+            "ctg_id": "0181",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "두루마리휴지"
+        },
+        {
+            "ctg_id": "0182",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "각티슈"
+        },
+        {
+            "ctg_id": "0183",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "치약"
+        },
+        {
+            "ctg_id": "0184",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "욕실용품",
+            "ctg_nm_level3": "디스펜서"
+        },
+        {
+            "ctg_id": "0185",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "휠체어"
+        },
+        {
+            "ctg_id": "0186",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "지팡이"
+        },
+        {
+            "ctg_id": "0187",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "목발"
+        },
+        {
+            "ctg_id": "0188",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "체중계"
+        },
+        {
+            "ctg_id": "0189",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "신장계"
+        },
+        {
+            "ctg_id": "0190",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "산소마스크"
+        },
+        {
+            "ctg_id": "0191",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "온도계"
+        },
+        {
+            "ctg_id": "0192",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "체온계"
+        },
+        {
+            "ctg_id": "0193",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "구급상자"
+        },
+        {
+            "ctg_id": "0194",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "일회용밴드(대일밴드)"
+        },
+        {
+            "ctg_id": "0195",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "연고"
+        },
+        {
+            "ctg_id": "0196",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "알약"
+        },
+        {
+            "ctg_id": "0197",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "먼지차단마스크"
+        },
+        {
+            "ctg_id": "0198",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "방독면"
+        },
+        {
+            "ctg_id": "0199",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "면봉"
+        },
+        {
+            "ctg_id": "0200",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "콘택트렌즈"
+        },
+        {
+            "ctg_id": "0201",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "돋보기"
+        },
+        {
+            "ctg_id": "0202",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "현미경"
+        },
+        {
+            "ctg_id": "0203",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "핀셋"
+        },
+        {
+            "ctg_id": "0204",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "청진기"
+        },
+        {
+            "ctg_id": "0205",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "의료/헬스케어용품",
+            "ctg_nm_level3": "주사기"
+        },
+        {
+            "ctg_id": "0206",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "디지털탁상시계"
+        },
+        {
+            "ctg_id": "0207",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "탁상시계(자명종)"
+        },
+        {
+            "ctg_id": "0208",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "괘종시계"
+        },
+        {
+            "ctg_id": "0209",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "벽시계"
+        },
+        {
+            "ctg_id": "0210",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "크리스마스양말"
+        },
+        {
+            "ctg_id": "0211",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "선물"
+        },
+        {
+            "ctg_id": "0212",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "형광등"
+        },
+        {
+            "ctg_id": "0213",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "스탠드조명"
+        },
+        {
+            "ctg_id": "0214",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "탁상조명"
+        },
+        {
+            "ctg_id": "0215",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "양초"
+        },
+        {
+            "ctg_id": "0216",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "지구본"
+        },
+        {
+            "ctg_id": "0217",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "종이상자"
+        },
+        {
+            "ctg_id": "0218",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "전구"
+        },
+        {
+            "ctg_id": "0219",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "문고리"
+        },
+        {
+            "ctg_id": "0220",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "달력"
+        },
+        {
+            "ctg_id": "0221",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "꽃병"
+        },
+        {
+            "ctg_id": "0222",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "화분"
+        },
+        {
+            "ctg_id": "0223",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "커튼"
+        },
+        {
+            "ctg_id": "0224",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "블라인드"
+        },
+        {
+            "ctg_id": "0225",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "창문"
+        },
+        {
+            "ctg_id": "0226",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "크리스마스트리"
+        },
+        {
+            "ctg_id": "0227",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "가랜드"
+        },
+        {
+            "ctg_id": "0228",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "깃발"
+        },
+        {
+            "ctg_id": "0229",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "호박등(할로윈)"
+        },
+        {
+            "ctg_id": "0230",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "보물상자"
+        },
+        {
+            "ctg_id": "0231",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "트로피"
+        },
+        {
+            "ctg_id": "0232",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "벽난로"
+        },
+        {
+            "ctg_id": "0233",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "샹들리에"
+        },
+        {
+            "ctg_id": "0234",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "어항"
+        },
+        {
+            "ctg_id": "0235",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "행거"
+        },
+        {
+            "ctg_id": "0236",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "베개"
+        },
+        {
+            "ctg_id": "0237",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "모래시계"
+        },
+        {
+            "ctg_id": "0238",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "종"
+        },
+        {
+            "ctg_id": "0239",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "버티컬블라인드"
+        },
+        {
+            "ctg_id": "0240",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "쿠션"
+        },
+        {
+            "ctg_id": "0241",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "병풍"
+        },
+        {
+            "ctg_id": "0242",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "리본(장식)"
+        },
+        {
+            "ctg_id": "0243",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "디퓨저"
+        },
+        {
+            "ctg_id": "0244",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "부채"
+        },
+        {
+            "ctg_id": "0245",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "홈데코/소품",
+            "ctg_nm_level3": "문"
+        },
+        {
+            "ctg_id": "0246",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "전동드릴"
+        },
+        {
+            "ctg_id": "0247",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "드라이버"
+        },
+        {
+            "ctg_id": "0248",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "못"
+        },
+        {
+            "ctg_id": "0249",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "볼트(나사)"
+        },
+        {
+            "ctg_id": "0250",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "너트"
+        },
+        {
+            "ctg_id": "0251",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "수평계"
+        },
+        {
+            "ctg_id": "0252",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "사다리"
+        },
+        {
+            "ctg_id": "0253",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "멀티탭"
+        },
+        {
+            "ctg_id": "0254",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "공구함"
+        },
+        {
+            "ctg_id": "0255",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "맥가이버칼"
+        },
+        {
+            "ctg_id": "0256",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "플러그"
+        },
+        {
+            "ctg_id": "0257",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "페인트붓"
+        },
+        {
+            "ctg_id": "0258",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "줄자"
+        },
+        {
+            "ctg_id": "0259",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "망치"
+        },
+        {
+            "ctg_id": "0260",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "푸시형버튼"
+        },
+        {
+            "ctg_id": "0261",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "콘센트"
+        },
+        {
+            "ctg_id": "0262",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "파이프"
+        },
+        {
+            "ctg_id": "0263",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "성냥"
+        },
+        {
+            "ctg_id": "0264",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "대패"
+        },
+        {
+            "ctg_id": "0265",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "덫"
+        },
+        {
+            "ctg_id": "0266",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "전기톱"
+        },
+        {
+            "ctg_id": "0267",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "가스밸브"
+        },
+        {
+            "ctg_id": "0268",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "톱"
+        },
+        {
+            "ctg_id": "0269",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "공구/부품",
+            "ctg_nm_level3": "송곳"
+        },
+        {
+            "ctg_id": "0270",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "각도기"
+        },
+        {
+            "ctg_id": "0271",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "볼펜"
+        },
+        {
+            "ctg_id": "0272",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "연필"
+        },
+        {
+            "ctg_id": "0273",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "색연필"
+        },
+        {
+            "ctg_id": "0274",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "붓"
+        },
+        {
+            "ctg_id": "0275",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "팔레트"
+        },
+        {
+            "ctg_id": "0276",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "스케치북"
+        },
+        {
+            "ctg_id": "0277",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "깃털"
+        },
+        {
+            "ctg_id": "0278",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "사무용 칼"
+        },
+        {
+            "ctg_id": "0279",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "사무용 가위"
+        },
+        {
+            "ctg_id": "0280",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "사무용 자"
+        },
+        {
+            "ctg_id": "0281",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "스테이플러"
+        },
+        {
+            "ctg_id": "0282",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "파일바인더"
+        },
+        {
+            "ctg_id": "0283",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "사무용 집게"
+        },
+        {
+            "ctg_id": "0284",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "서류봉투"
+        },
+        {
+            "ctg_id": "0285",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "편지봉투"
+        },
+        {
+            "ctg_id": "0286",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "자석"
+        },
+        {
+            "ctg_id": "0287",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "연필깎이"
+        },
+        {
+            "ctg_id": "0288",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "풀"
+        },
+        {
+            "ctg_id": "0289",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "클립"
+        },
+        {
+            "ctg_id": "0290",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "테이프"
+        },
+        {
+            "ctg_id": "0291",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "돼지저금통"
+        },
+        {
+            "ctg_id": "0292",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "필통"
+        },
+        {
+            "ctg_id": "0293",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "만년필"
+        },
+        {
+            "ctg_id": "0294",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "계산기"
+        },
+        {
+            "ctg_id": "0295",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "도장"
+        },
+        {
+            "ctg_id": "0296",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "책(일반도서)+잡지"
+        },
+        {
+            "ctg_id": "0297",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "나침반"
+        },
+        {
+            "ctg_id": "0298",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "주판"
+        },
+        {
+            "ctg_id": "0299",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "스톱워치"
+        },
+        {
+            "ctg_id": "0300",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "사무/필기용품",
+            "ctg_nm_level3": "강연대"
+        },
+        {
+            "ctg_id": "0301",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "차량용품",
+            "ctg_nm_level3": "(차량용)휴대폰거치대"
+        },
+        {
+            "ctg_id": "0302",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "기호/미용용품",
+            "ctg_nm_level3": "전자담배"
+        },
+        {
+            "ctg_id": "0303",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "기호/미용용품",
+            "ctg_nm_level3": "헤어롤"
+        },
+        {
+            "ctg_id": "0304",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "기호/미용용품",
+            "ctg_nm_level3": "마스크팩"
+        },
+        {
+            "ctg_id": "0305",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "기호/미용용품",
+            "ctg_nm_level3": "담배"
+        },
+        {
+            "ctg_id": "0306",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "기호/미용용품",
+            "ctg_nm_level3": "브러시(화장용)"
+        },
+        {
+            "ctg_id": "0307",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "기호/미용용품",
+            "ctg_nm_level3": "헤어브러시"
+        },
+        {
+            "ctg_id": "0308",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "기호/미용용품",
+            "ctg_nm_level3": "라이터"
+        },
+        {
+            "ctg_id": "0309",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "기호/미용용품",
+            "ctg_nm_level3": "시가(파이프)"
+        },
+        {
+            "ctg_id": "0310",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "다이얼금고"
+        },
+        {
+            "ctg_id": "0311",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "열쇠형 금고"
+        },
+        {
+            "ctg_id": "0312",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "안전삼각대"
+        },
+        {
+            "ctg_id": "0313",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "경광봉"
+        },
+        {
+            "ctg_id": "0314",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "호루라기"
+        },
+        {
+            "ctg_id": "0315",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "소화기"
+        },
+        {
+            "ctg_id": "0316",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "열쇠"
+        },
+        {
+            "ctg_id": "0317",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "자물쇠"
+        },
+        {
+            "ctg_id": "0318",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "안전/보안용품",
+            "ctg_nm_level3": "자전거용 자물쇠"
+        },
+        {
+            "ctg_id": "0319",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "카세트테이프"
+        },
+        {
+            "ctg_id": "0320",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "LP"
+        },
+        {
+            "ctg_id": "0321",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "1인용게임기"
+        },
+        {
+            "ctg_id": "0322",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "조이스틱"
+        },
+        {
+            "ctg_id": "0323",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "다인용게임기 컨트롤러"
+        },
+        {
+            "ctg_id": "0324",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "퍼즐"
+        },
+        {
+            "ctg_id": "0325",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "큐브"
+        },
+        {
+            "ctg_id": "0326",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "바이올린"
+        },
+        {
+            "ctg_id": "0327",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "첼로"
+        },
+        {
+            "ctg_id": "0328",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "기타"
+        },
+        {
+            "ctg_id": "0329",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "전자기타"
+        },
+        {
+            "ctg_id": "0330",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "북"
+        },
+        {
+            "ctg_id": "0331",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "꽹과리"
+        },
+        {
+            "ctg_id": "0332",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "단소/피리"
+        },
+        {
+            "ctg_id": "0333",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "플룻"
+        },
+        {
+            "ctg_id": "0334",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "색소폰"
+        },
+        {
+            "ctg_id": "0335",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "클라리넷"
+        },
+        {
+            "ctg_id": "0336",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "하모니카"
+        },
+        {
+            "ctg_id": "0337",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "호른"
+        },
+        {
+            "ctg_id": "0338",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "트럼펫"
+        },
+        {
+            "ctg_id": "0339",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "아코디언"
+        },
+        {
+            "ctg_id": "0340",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "드럼"
+        },
+        {
+            "ctg_id": "0341",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "심벌즈"
+        },
+        {
+            "ctg_id": "0342",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "업라이트피아노"
+        },
+        {
+            "ctg_id": "0343",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "그랜드피아노"
+        },
+        {
+            "ctg_id": "0344",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "캐스터네츠"
+        },
+        {
+            "ctg_id": "0345",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "트라이앵글"
+        },
+        {
+            "ctg_id": "0346",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "오보에"
+        },
+        {
+            "ctg_id": "0347",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "삽"
+        },
+        {
+            "ctg_id": "0348",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "분무기"
+        },
+        {
+            "ctg_id": "0349",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "마림바"
+        },
+        {
+            "ctg_id": "0350",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "하프"
+        },
+        {
+            "ctg_id": "0351",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "오카리나"
+        },
+        {
+            "ctg_id": "0352",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "리코더"
+        },
+        {
+            "ctg_id": "0353",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "체스"
+        },
+        {
+            "ctg_id": "0354",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "바둑판"
+        },
+        {
+            "ctg_id": "0355",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "건반"
+        },
+        {
+            "ctg_id": "0356",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "망원경"
+        },
+        {
+            "ctg_id": "0357",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "실로폰"
+        },
+        {
+            "ctg_id": "0358",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "파이프오르간"
+        },
+        {
+            "ctg_id": "0359",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "팬파이프"
+        },
+        {
+            "ctg_id": "0360",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "이젤"
+        },
+        {
+            "ctg_id": "0361",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "탬버린"
+        },
+        {
+            "ctg_id": "0362",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "음악/취미용품",
+            "ctg_nm_level3": "셀카봉"
+        },
+        {
+            "ctg_id": "0363",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "반려동물용품",
+            "ctg_nm_level3": "캣타워"
+        },
+        {
+            "ctg_id": "0364",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "반려동물용품",
+            "ctg_nm_level3": "말 안장"
+        },
+        {
+            "ctg_id": "0365",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "반려동물용품",
+            "ctg_nm_level3": "새집"
+        },
+        {
+            "ctg_id": "0366",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "반려동물용품",
+            "ctg_nm_level3": "입마개(강아지)"
+        },
+        {
+            "ctg_id": "0367",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "반려동물용품",
+            "ctg_nm_level3": "개껌"
+        },
+        {
+            "ctg_id": "0368",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "침낭"
+        },
+        {
+            "ctg_id": "0369",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "카라반"
+        },
+        {
+            "ctg_id": "0370",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "러닝머신"
+        },
+        {
+            "ctg_id": "0371",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "노"
+        },
+        {
+            "ctg_id": "0372",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "케틀벨"
+        },
+        {
+            "ctg_id": "0373",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "로잉머신"
+        },
+        {
+            "ctg_id": "0374",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "철봉"
+        },
+        {
+            "ctg_id": "0375",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "헬스사이클"
+        },
+        {
+            "ctg_id": "0376",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "아령"
+        },
+        {
+            "ctg_id": "0377",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "골프클럽"
+        },
+        {
+            "ctg_id": "0378",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "트램폴린"
+        },
+        {
+            "ctg_id": "0379",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "스텝퍼/스텝박스"
+        },
+        {
+            "ctg_id": "0380",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "줄넘기"
+        },
+        {
+            "ctg_id": "0381",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "훌라후프"
+        },
+        {
+            "ctg_id": "0382",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "카누"
+        },
+        {
+            "ctg_id": "0383",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "돛단배"
+        },
+        {
+            "ctg_id": "0384",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "스케이트보드"
+        },
+        {
+            "ctg_id": "0385",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "덤벨"
+        },
+        {
+            "ctg_id": "0386",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "쌍안경"
+        },
+        {
+            "ctg_id": "0387",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "2인용자전거"
+        },
+        {
+            "ctg_id": "0388",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "모래주머니"
+        },
+        {
+            "ctg_id": "0389",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "완력기"
+        },
+        {
+            "ctg_id": "0390",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "골프가방"
+        },
+        {
+            "ctg_id": "0391",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "텐트"
+        },
+        {
+            "ctg_id": "0392",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "랜턴"
+        },
+        {
+            "ctg_id": "0393",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "손전등"
+        },
+        {
+            "ctg_id": "0394",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "접이식의자"
+        },
+        {
+            "ctg_id": "0395",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "버너"
+        },
+        {
+            "ctg_id": "0396",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "파라솔"
+        },
+        {
+            "ctg_id": "0397",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "웨건"
+        },
+        {
+            "ctg_id": "0398",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "인라인스케이트(롤러블레이드)"
+        },
+        {
+            "ctg_id": "0399",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "보트"
+        },
+        {
+            "ctg_id": "0400",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "물안경"
+        },
+        {
+            "ctg_id": "0401",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "튜브"
+        },
+        {
+            "ctg_id": "0402",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "오리발"
+        },
+        {
+            "ctg_id": "0403",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "자전거"
+        },
+        {
+            "ctg_id": "0404",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "헬멧"
+        },
+        {
+            "ctg_id": "0405",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "드럼스틱"
+        },
+        {
+            "ctg_id": "0406",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "럭비헬멧"
+        },
+        {
+            "ctg_id": "0407",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "낚시대"
+        },
+        {
+            "ctg_id": "0408",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "무릎보호대"
+        },
+        {
+            "ctg_id": "0409",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "썰매"
+        },
+        {
+            "ctg_id": "0410",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "고글"
+        },
+        {
+            "ctg_id": "0411",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "평행봉"
+        },
+        {
+            "ctg_id": "0412",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "탁구채"
+        },
+        {
+            "ctg_id": "0413",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "스노클링고글"
+        },
+        {
+            "ctg_id": "0414",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "스노보드"
+        },
+        {
+            "ctg_id": "0415",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "스키"
+        },
+        {
+            "ctg_id": "0416",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "축구공"
+        },
+        {
+            "ctg_id": "0417",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "야구공"
+        },
+        {
+            "ctg_id": "0418",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "테니스공"
+        },
+        {
+            "ctg_id": "0419",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "농구공"
+        },
+        {
+            "ctg_id": "0420",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "럭비공"
+        },
+        {
+            "ctg_id": "0421",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "셔틀콕"
+        },
+        {
+            "ctg_id": "0422",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "배드민턴라켓"
+        },
+        {
+            "ctg_id": "0423",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "테니스라켓"
+        },
+        {
+            "ctg_id": "0424",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "야구배트"
+        },
+        {
+            "ctg_id": "0425",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "농구대"
+        },
+        {
+            "ctg_id": "0426",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "아이스스케이트"
+        },
+        {
+            "ctg_id": "0427",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "볼링핀"
+        },
+        {
+            "ctg_id": "0428",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "서핑보드"
+        },
+        {
+            "ctg_id": "0429",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "가스용 토치"
+        },
+        {
+            "ctg_id": "0430",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "봅슬레이"
+        },
+        {
+            "ctg_id": "0431",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "해먹"
+        },
+        {
+            "ctg_id": "0432",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "드럼통"
+        },
+        {
+            "ctg_id": "0433",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "숯"
+        },
+        {
+            "ctg_id": "0434",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "부메랑"
+        },
+        {
+            "ctg_id": "0435",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "폭죽(파티용)"
+        },
+        {
+            "ctg_id": "0436",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "하키용스틱"
+        },
+        {
+            "ctg_id": "0437",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "팽이"
+        },
+        {
+            "ctg_id": "0438",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "확성기"
+        },
+        {
+            "ctg_id": "0439",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "구명보트"
+        },
+        {
+            "ctg_id": "0440",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "뗏목"
+        },
+        {
+            "ctg_id": "0441",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "스포츠/레저용품",
+            "ctg_nm_level3": "도끼"
+        },
+        {
+            "ctg_id": "0442",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "아기침대"
+        },
+        {
+            "ctg_id": "0443",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "아기띠/힙시트"
+        },
+        {
+            "ctg_id": "0444",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "젖병"
+        },
+        {
+            "ctg_id": "0445",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "유모차"
+        },
+        {
+            "ctg_id": "0446",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "곰인형"
+        },
+        {
+            "ctg_id": "0447",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "아기모자"
+        },
+        {
+            "ctg_id": "0448",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "유아턱받이"
+        },
+        {
+            "ctg_id": "0449",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "요람"
+        },
+        {
+            "ctg_id": "0450",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "카시트"
+        },
+        {
+            "ctg_id": "0451",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "블록장난감(레고)"
+        },
+        {
+            "ctg_id": "0452",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "미끄럼틀"
+        },
+        {
+            "ctg_id": "0453",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "시소"
+        },
+        {
+            "ctg_id": "0454",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "그네"
+        },
+        {
+            "ctg_id": "0455",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "딸랑이"
+        },
+        {
+            "ctg_id": "0456",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "모빌"
+        },
+        {
+            "ctg_id": "0457",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "바람개비"
+        },
+        {
+            "ctg_id": "0458",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "유아/아동용품",
+            "ctg_nm_level3": "기저귀"
+        },
+        {
+            "ctg_id": "0459",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "쓰레받기"
+        },
+        {
+            "ctg_id": "0460",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "식기건조대"
+        },
+        {
+            "ctg_id": "0461",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "바구니(바스켓)"
+        },
+        {
+            "ctg_id": "0462",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "빨래건조대"
+        },
+        {
+            "ctg_id": "0463",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "빨래집게"
+        },
+        {
+            "ctg_id": "0464",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "빗자루"
+        },
+        {
+            "ctg_id": "0465",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "다리미판"
+        },
+        {
+            "ctg_id": "0466",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "단추"
+        },
+        {
+            "ctg_id": "0467",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "바늘"
+        },
+        {
+            "ctg_id": "0468",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "지퍼"
+        },
+        {
+            "ctg_id": "0469",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "쓰레기통"
+        },
+        {
+            "ctg_id": "0470",
+            "ctg_nm_level1": "생활",
+            "ctg_nm_level2": "빨래/청소용품",
+            "ctg_nm_level3": "먼지제거롤러"
+        },
+        {
+            "ctg_id": "0471",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "상어"
+        },
+        {
+            "ctg_id": "0472",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "불가사리"
+        },
+        {
+            "ctg_id": "0473",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "게"
+        },
+        {
+            "ctg_id": "0474",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "물개"
+        },
+        {
+            "ctg_id": "0475",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "가재"
+        },
+        {
+            "ctg_id": "0476",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "성게"
+        },
+        {
+            "ctg_id": "0477",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "문어"
+        },
+        {
+            "ctg_id": "0478",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "해마"
+        },
+        {
+            "ctg_id": "0479",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "가자미(물고기)"
+        },
+        {
+            "ctg_id": "0480",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "거북"
+        },
+        {
+            "ctg_id": "0481",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "메기"
+        },
+        {
+            "ctg_id": "0482",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "조개"
+        },
+        {
+            "ctg_id": "0483",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "잉어"
+        },
+        {
+            "ctg_id": "0484",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "굴"
+        },
+        {
+            "ctg_id": "0485",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "복어"
+        },
+        {
+            "ctg_id": "0486",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "오징어"
+        },
+        {
+            "ctg_id": "0487",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "고래"
+        },
+        {
+            "ctg_id": "0488",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "가오리"
+        },
+        {
+            "ctg_id": "0489",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "새우"
+        },
+        {
+            "ctg_id": "0490",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "돌고래"
+        },
+        {
+            "ctg_id": "0491",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "해파리"
+        },
+        {
+            "ctg_id": "0492",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "소라게"
+        },
+        {
+            "ctg_id": "0493",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "대게"
+        },
+        {
+            "ctg_id": "0494",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "농게"
+        },
+        {
+            "ctg_id": "0495",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "소라류"
+        },
+        {
+            "ctg_id": "0496",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "민달팽이"
+        },
+        {
+            "ctg_id": "0497",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "소라"
+        },
+        {
+            "ctg_id": "0498",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "말미잘"
+        },
+        {
+            "ctg_id": "0499",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "바다거북"
+        },
+        {
+            "ctg_id": "0500",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "라이언피쉬"
+        },
+        {
+            "ctg_id": "0501",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "흰동가리"
+        },
+        {
+            "ctg_id": "0502",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "산호"
+        },
+        {
+            "ctg_id": "0503",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "해양생물/어류",
+            "ctg_nm_level3": "금붕어"
+        },
+        {
+            "ctg_id": "0504",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "독수리"
+        },
+        {
+            "ctg_id": "0505",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "왜가리"
+        },
+        {
+            "ctg_id": "0506",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "부엉이"
+        },
+        {
+            "ctg_id": "0507",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "제비"
+        },
+        {
+            "ctg_id": "0508",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "딱다구리"
+        },
+        {
+            "ctg_id": "0509",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "비둘기"
+        },
+        {
+            "ctg_id": "0510",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "닭"
+        },
+        {
+            "ctg_id": "0511",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "두루미"
+        },
+        {
+            "ctg_id": "0512",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "까마귀"
+        },
+        {
+            "ctg_id": "0513",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "꾀꼬리"
+        },
+        {
+            "ctg_id": "0514",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "참새"
+        },
+        {
+            "ctg_id": "0515",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "올빼미"
+        },
+        {
+            "ctg_id": "0516",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "공작"
+        },
+        {
+            "ctg_id": "0517",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "펠리컨"
+        },
+        {
+            "ctg_id": "0518",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "뱀"
+        },
+        {
+            "ctg_id": "0519",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "병아리"
+        },
+        {
+            "ctg_id": "0520",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "백조"
+        },
+        {
+            "ctg_id": "0521",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "앵무새"
+        },
+        {
+            "ctg_id": "0522",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "홍학"
+        },
+        {
+            "ctg_id": "0523",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "타조"
+        },
+        {
+            "ctg_id": "0524",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "까치"
+        },
+        {
+            "ctg_id": "0525",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "박쥐"
+        },
+        {
+            "ctg_id": "0526",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "이구아나"
+        },
+        {
+            "ctg_id": "0527",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "악어"
+        },
+        {
+            "ctg_id": "0528",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "코브라"
+        },
+        {
+            "ctg_id": "0529",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "트리케라톱스"
+        },
+        {
+            "ctg_id": "0530",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "카멜레온"
+        },
+        {
+            "ctg_id": "0531",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "목도리도마뱀"
+        },
+        {
+            "ctg_id": "0532",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "토코투칸"
+        },
+        {
+            "ctg_id": "0533",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "갈매기"
+        },
+        {
+            "ctg_id": "0534",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "오리"
+        },
+        {
+            "ctg_id": "0535",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "백로"
+        },
+        {
+            "ctg_id": "0536",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "저어새"
+        },
+        {
+            "ctg_id": "0537",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "조류/파충류",
+            "ctg_nm_level3": "청둥오리"
+        },
+        {
+            "ctg_id": "0538",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "사슴"
+        },
+        {
+            "ctg_id": "0539",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "소"
+        },
+        {
+            "ctg_id": "0540",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "낙타"
+        },
+        {
+            "ctg_id": "0541",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "늑대"
+        },
+        {
+            "ctg_id": "0542",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "염소"
+        },
+        {
+            "ctg_id": "0543",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "햄스터"
+        },
+        {
+            "ctg_id": "0544",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "원숭이"
+        },
+        {
+            "ctg_id": "0545",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "두더지"
+        },
+        {
+            "ctg_id": "0546",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "너구리"
+        },
+        {
+            "ctg_id": "0547",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "토끼"
+        },
+        {
+            "ctg_id": "0548",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "멧돼지"
+        },
+        {
+            "ctg_id": "0549",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "돼지"
+        },
+        {
+            "ctg_id": "0550",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "곰"
+        },
+        {
+            "ctg_id": "0551",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "여우"
+        },
+        {
+            "ctg_id": "0552",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "암사자"
+        },
+        {
+            "ctg_id": "0553",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "숫사자"
+        },
+        {
+            "ctg_id": "0554",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "말"
+        },
+        {
+            "ctg_id": "0555",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "얼룩말"
+        },
+        {
+            "ctg_id": "0556",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "기린"
+        },
+        {
+            "ctg_id": "0557",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "고양이"
+        },
+        {
+            "ctg_id": "0558",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "푸들"
+        },
+        {
+            "ctg_id": "0559",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "불독"
+        },
+        {
+            "ctg_id": "0560",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "시베리안허스키"
+        },
+        {
+            "ctg_id": "0561",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "차우차우"
+        },
+        {
+            "ctg_id": "0562",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "비숑프리제"
+        },
+        {
+            "ctg_id": "0563",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "말티즈"
+        },
+        {
+            "ctg_id": "0564",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "고릴라"
+        },
+        {
+            "ctg_id": "0565",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "나무늘보"
+        },
+        {
+            "ctg_id": "0566",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "산양"
+        },
+        {
+            "ctg_id": "0567",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "미어캣"
+        },
+        {
+            "ctg_id": "0568",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "아르마딜로"
+        },
+        {
+            "ctg_id": "0569",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "가젤"
+        },
+        {
+            "ctg_id": "0570",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "라마"
+        },
+        {
+            "ctg_id": "0571",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "스컹크"
+        },
+        {
+            "ctg_id": "0572",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "치타"
+        },
+        {
+            "ctg_id": "0573",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "캥거루"
+        },
+        {
+            "ctg_id": "0574",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "코뿔소"
+        },
+        {
+            "ctg_id": "0575",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "코알라"
+        },
+        {
+            "ctg_id": "0576",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "젖소"
+        },
+        {
+            "ctg_id": "0577",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "북극곰"
+        },
+        {
+            "ctg_id": "0578",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "판다/팬더"
+        },
+        {
+            "ctg_id": "0579",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "코끼리"
+        },
+        {
+            "ctg_id": "0580",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "하마"
+        },
+        {
+            "ctg_id": "0581",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "양"
+        },
+        {
+            "ctg_id": "0582",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "오리너구리"
+        },
+        {
+            "ctg_id": "0583",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "하이에나"
+        },
+        {
+            "ctg_id": "0584",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "개미핥기"
+        },
+        {
+            "ctg_id": "0585",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "다람쥐"
+        },
+        {
+            "ctg_id": "0586",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "고슴도치"
+        },
+        {
+            "ctg_id": "0587",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "수달"
+        },
+        {
+            "ctg_id": "0588",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "표범"
+        },
+        {
+            "ctg_id": "0589",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "호랑이"
+        },
+        {
+            "ctg_id": "0590",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "오소리"
+        },
+        {
+            "ctg_id": "0591",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "펭귄"
+        },
+        {
+            "ctg_id": "0592",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "포유류",
+            "ctg_nm_level3": "쥐"
+        },
+        {
+            "ctg_id": "0593",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "잠자리"
+        },
+        {
+            "ctg_id": "0594",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "개미"
+        },
+        {
+            "ctg_id": "0595",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "사마귀"
+        },
+        {
+            "ctg_id": "0596",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "달팽이"
+        },
+        {
+            "ctg_id": "0597",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "바퀴벌레"
+        },
+        {
+            "ctg_id": "0598",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "모기"
+        },
+        {
+            "ctg_id": "0599",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "매미"
+        },
+        {
+            "ctg_id": "0600",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "전갈"
+        },
+        {
+            "ctg_id": "0601",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "파리"
+        },
+        {
+            "ctg_id": "0602",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "나비"
+        },
+        {
+            "ctg_id": "0603",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "풍뎅이"
+        },
+        {
+            "ctg_id": "0604",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "꿀벌"
+        },
+        {
+            "ctg_id": "0605",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "개구리"
+        },
+        {
+            "ctg_id": "0606",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "도마뱀"
+        },
+        {
+            "ctg_id": "0607",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "메뚜기"
+        },
+        {
+            "ctg_id": "0608",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "집게벌레"
+        },
+        {
+            "ctg_id": "0609",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "쇠똥구리"
+        },
+        {
+            "ctg_id": "0610",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "무당벌레"
+        },
+        {
+            "ctg_id": "0611",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "거미"
+        },
+        {
+            "ctg_id": "0612",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "지네"
+        },
+        {
+            "ctg_id": "0613",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "진드기"
+        },
+        {
+            "ctg_id": "0614",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "곤충/절지동물",
+            "ctg_nm_level3": "삼엽충"
+        },
+        {
+            "ctg_id": "0615",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "해바라기"
+        },
+        {
+            "ctg_id": "0616",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "야자수"
+        },
+        {
+            "ctg_id": "0617",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "나무"
+        },
+        {
+            "ctg_id": "0618",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "데이지"
+        },
+        {
+            "ctg_id": "0619",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "선인장"
+        },
+        {
+            "ctg_id": "0620",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "나뭇잎"
+        },
+        {
+            "ctg_id": "0621",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "잔디"
+        },
+        {
+            "ctg_id": "0622",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "소나무"
+        },
+        {
+            "ctg_id": "0623",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "덤불"
+        },
+        {
+            "ctg_id": "0624",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "카네이션"
+        },
+        {
+            "ctg_id": "0625",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "튤립"
+        },
+        {
+            "ctg_id": "0626",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "백합"
+        },
+        {
+            "ctg_id": "0627",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "국화"
+        },
+        {
+            "ctg_id": "0628",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "벼"
+        },
+        {
+            "ctg_id": "0629",
+            "ctg_nm_level1": "동식물",
+            "ctg_nm_level2": "식물",
+            "ctg_nm_level3": "장미"
+        },
+        {
+            "ctg_id": "0630",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "사과"
+        },
+        {
+            "ctg_id": "0631",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "배"
+        },
+        {
+            "ctg_id": "0632",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "감귤"
+        },
+        {
+            "ctg_id": "0633",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "수박"
+        },
+        {
+            "ctg_id": "0634",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "멜론"
+        },
+        {
+            "ctg_id": "0635",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "토마토"
+        },
+        {
+            "ctg_id": "0636",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "딸기"
+        },
+        {
+            "ctg_id": "0637",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "키위"
+        },
+        {
+            "ctg_id": "0638",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "포도"
+        },
+        {
+            "ctg_id": "0639",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "복숭아"
+        },
+        {
+            "ctg_id": "0640",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "바나나"
+        },
+        {
+            "ctg_id": "0641",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "파인애플"
+        },
+        {
+            "ctg_id": "0642",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "레몬"
+        },
+        {
+            "ctg_id": "0643",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "망고"
+        },
+        {
+            "ctg_id": "0644",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "체리"
+        },
+        {
+            "ctg_id": "0645",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "아보카도"
+        },
+        {
+            "ctg_id": "0646",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "패션후르츠"
+        },
+        {
+            "ctg_id": "0647",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "리치"
+        },
+        {
+            "ctg_id": "0648",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "석류"
+        },
+        {
+            "ctg_id": "0649",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "산딸기"
+        },
+        {
+            "ctg_id": "0650",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "용과"
+        },
+        {
+            "ctg_id": "0651",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "감"
+        },
+        {
+            "ctg_id": "0652",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "고구마"
+        },
+        {
+            "ctg_id": "0653",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "감자"
+        },
+        {
+            "ctg_id": "0654",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "양파"
+        },
+        {
+            "ctg_id": "0655",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": " 마늘"
+        },
+        {
+            "ctg_id": "0656",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": " 오이"
+        },
+        {
+            "ctg_id": "0657",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "고추"
+        },
+        {
+            "ctg_id": "0658",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "파프리카"
+        },
+        {
+            "ctg_id": "0659",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "당근"
+        },
+        {
+            "ctg_id": "0660",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "양배추"
+        },
+        {
+            "ctg_id": "0661",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "브로콜리"
+        },
+        {
+            "ctg_id": "0662",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "상추"
+        },
+        {
+            "ctg_id": "0663",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "가지"
+        },
+        {
+            "ctg_id": "0664",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "애호박"
+        },
+        {
+            "ctg_id": "0665",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "옥수수"
+        },
+        {
+            "ctg_id": "0666",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "버섯"
+        },
+        {
+            "ctg_id": "0667",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "아스파라거스"
+        },
+        {
+            "ctg_id": "0668",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "인삼"
+        },
+        {
+            "ctg_id": "0669",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "배추"
+        },
+        {
+            "ctg_id": "0670",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "무"
+        },
+        {
+            "ctg_id": "0671",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "시금치"
+        },
+        {
+            "ctg_id": "0672",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "비트"
+        },
+        {
+            "ctg_id": "0673",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "청경채"
+        },
+        {
+            "ctg_id": "0674",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "샐러리"
+        },
+        {
+            "ctg_id": "0675",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "파"
+        },
+        {
+            "ctg_id": "0676",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "부추"
+        },
+        {
+            "ctg_id": "0677",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "단호박"
+        },
+        {
+            "ctg_id": "0678",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "늙은호박"
+        },
+        {
+            "ctg_id": "0679",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "미역"
+        },
+        {
+            "ctg_id": "0680",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "코코넛"
+        },
+        {
+            "ctg_id": "0681",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "완두콩"
+        },
+        {
+            "ctg_id": "0682",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "팽이버섯"
+        },
+        {
+            "ctg_id": "0683",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "블루베리"
+        },
+        {
+            "ctg_id": "0684",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "도토리"
+        },
+        {
+            "ctg_id": "0685",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "과채/해조류",
+            "ctg_nm_level3": "무화과"
+        },
+        {
+            "ctg_id": "0686",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "견과류",
+            "ctg_nm_level3": "호두"
+        },
+        {
+            "ctg_id": "0687",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "견과류",
+            "ctg_nm_level3": "아몬드"
+        },
+        {
+            "ctg_id": "0688",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "견과류",
+            "ctg_nm_level3": "땅콩"
+        },
+        {
+            "ctg_id": "0689",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "견과류",
+            "ctg_nm_level3": "밤"
+        },
+        {
+            "ctg_id": "0690",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "견과류",
+            "ctg_nm_level3": "피스타치오"
+        },
+        {
+            "ctg_id": "0691",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "견과류",
+            "ctg_nm_level3": "캐슈넛"
+        },
+        {
+            "ctg_id": "0692",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "유제품/난류",
+            "ctg_nm_level3": "계란"
+        },
+        {
+            "ctg_id": "0693",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "유제품/난류",
+            "ctg_nm_level3": "메추리알"
+        },
+        {
+            "ctg_id": "0694",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "유제품/난류",
+            "ctg_nm_level3": "우유(우유팩)"
+        },
+        {
+            "ctg_id": "0695",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "유제품/난류",
+            "ctg_nm_level3": "요구르트"
+        },
+        {
+            "ctg_id": "0696",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "유제품/난류",
+            "ctg_nm_level3": "치즈"
+        },
+        {
+            "ctg_id": "0697",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "감자튀김"
+        },
+        {
+            "ctg_id": "0698",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "햄버거"
+        },
+        {
+            "ctg_id": "0699",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "초콜릿"
+        },
+        {
+            "ctg_id": "0700",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "사탕"
+        },
+        {
+            "ctg_id": "0701",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "껌"
+        },
+        {
+            "ctg_id": "0702",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "젤리"
+        },
+        {
+            "ctg_id": "0703",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "아이스크림"
+        },
+        {
+            "ctg_id": "0704",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "라면"
+        },
+        {
+            "ctg_id": "0705",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "쿠키"
+        },
+        {
+            "ctg_id": "0706",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "막대사탕"
+        },
+        {
+            "ctg_id": "0707",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "커피믹스"
+        },
+        {
+            "ctg_id": "0708",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "푸딩"
+        },
+        {
+            "ctg_id": "0709",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "캐러멜"
+        },
+        {
+            "ctg_id": "0710",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "팝콘"
+        },
+        {
+            "ctg_id": "0711",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "시리얼"
+        },
+        {
+            "ctg_id": "0712",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "통조림"
+        },
+        {
+            "ctg_id": "0713",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "타르트"
+        },
+        {
+            "ctg_id": "0714",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "롤케이크"
+        },
+        {
+            "ctg_id": "0715",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "파이"
+        },
+        {
+            "ctg_id": "0716",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "도너츠/도넛"
+        },
+        {
+            "ctg_id": "0717",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "프레첼/프레츨"
+        },
+        {
+            "ctg_id": "0718",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "가공식품/디저트",
+            "ctg_nm_level3": "마카롱"
+        },
+        {
+            "ctg_id": "0719",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "음료",
+            "ctg_nm_level3": "탄산음료"
+        },
+        {
+            "ctg_id": "0720",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "음료",
+            "ctg_nm_level3": "커피"
+        },
+        {
+            "ctg_id": "0721",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "음료",
+            "ctg_nm_level3": "주스"
+        },
+        {
+            "ctg_id": "0722",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "음료",
+            "ctg_nm_level3": "코코아"
+        },
+        {
+            "ctg_id": "0723",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "김치"
+        },
+        {
+            "ctg_id": "0724",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "피자"
+        },
+        {
+            "ctg_id": "0725",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "핫도그"
+        },
+        {
+            "ctg_id": "0726",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "만두"
+        },
+        {
+            "ctg_id": "0727",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "샐러드"
+        },
+        {
+            "ctg_id": "0728",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "돈가스"
+        },
+        {
+            "ctg_id": "0729",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "떡갈비"
+        },
+        {
+            "ctg_id": "0730",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "베이컨"
+        },
+        {
+            "ctg_id": "0731",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "부리또"
+        },
+        {
+            "ctg_id": "0732",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "베이글"
+        },
+        {
+            "ctg_id": "0733",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "바게트"
+        },
+        {
+            "ctg_id": "0734",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "소시지"
+        },
+        {
+            "ctg_id": "0735",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "초밥"
+        },
+        {
+            "ctg_id": "0736",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "회"
+        },
+        {
+            "ctg_id": "0737",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "떡"
+        },
+        {
+            "ctg_id": "0738",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "식빵"
+        },
+        {
+            "ctg_id": "0739",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "크루아상"
+        },
+        {
+            "ctg_id": "0740",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "호밀빵(식사용 빵)"
+        },
+        {
+            "ctg_id": "0741",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "케이크"
+        },
+        {
+            "ctg_id": "0742",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "밥"
+        },
+        {
+            "ctg_id": "0743",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "스프"
+        },
+        {
+            "ctg_id": "0744",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "어묵"
+        },
+        {
+            "ctg_id": "0745",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "튀김"
+        },
+        {
+            "ctg_id": "0746",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "김밥"
+        },
+        {
+            "ctg_id": "0747",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "스테이크"
+        },
+        {
+            "ctg_id": "0748",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "파스타"
+        },
+        {
+            "ctg_id": "0749",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "도시락(식품)"
+        },
+        {
+            "ctg_id": "0750",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "치킨"
+        },
+        {
+            "ctg_id": "0751",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "랍스터"
+        },
+        {
+            "ctg_id": "0752",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "국밥"
+        },
+        {
+            "ctg_id": "0753",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "주먹밥"
+        },
+        {
+            "ctg_id": "0754",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "요리",
+            "ctg_nm_level3": "쌀국수"
+        },
+        {
+            "ctg_id": "0755",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "조미료/재료",
+            "ctg_nm_level3": "소금,후추통"
+        },
+        {
+            "ctg_id": "0756",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "조미료/재료",
+            "ctg_nm_level3": "식용유"
+        },
+        {
+            "ctg_id": "0757",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "조미료/재료",
+            "ctg_nm_level3": "잼"
+        },
+        {
+            "ctg_id": "0758",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "조미료/재료",
+            "ctg_nm_level3": "버터"
+        },
+        {
+            "ctg_id": "0759",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "조미료/재료",
+            "ctg_nm_level3": "시럽"
+        },
+        {
+            "ctg_id": "0760",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "주류/차류",
+            "ctg_nm_level3": "캔맥주"
+        },
+        {
+            "ctg_id": "0761",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "주류/차류",
+            "ctg_nm_level3": "병맥주"
+        },
+        {
+            "ctg_id": "0762",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "주류/차류",
+            "ctg_nm_level3": "와인병"
+        },
+        {
+            "ctg_id": "0763",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "주류/차류",
+            "ctg_nm_level3": "소주"
+        },
+        {
+            "ctg_id": "0764",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "주류/차류",
+            "ctg_nm_level3": "사케"
+        },
+        {
+            "ctg_id": "0765",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "주류/차류",
+            "ctg_nm_level3": "고량주"
+        },
+        {
+            "ctg_id": "0766",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "주류/차류",
+            "ctg_nm_level3": "양주"
+        },
+        {
+            "ctg_id": "0767",
+            "ctg_nm_level1": "식품",
+            "ctg_nm_level2": "주류/차류",
+            "ctg_nm_level3": "티백(차용)"
+        },
+        {
+            "ctg_id": "0768",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "안경테"
+        },
+        {
+            "ctg_id": "0769",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "캐리어"
+        },
+        {
+            "ctg_id": "0770",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "숄더백"
+        },
+        {
+            "ctg_id": "0771",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "백팩"
+        },
+        {
+            "ctg_id": "0772",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "크로스백"
+        },
+        {
+            "ctg_id": "0773",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "운동화"
+        },
+        {
+            "ctg_id": "0774",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "스틸레토"
+        },
+        {
+            "ctg_id": "0775",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "플랫슈즈"
+        },
+        {
+            "ctg_id": "0776",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "웨지힐"
+        },
+        {
+            "ctg_id": "0777",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "남성구두"
+        },
+        {
+            "ctg_id": "0778",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "샌들"
+        },
+        {
+            "ctg_id": "0779",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "슬리퍼"
+        },
+        {
+            "ctg_id": "0780",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "플립플랍"
+        },
+        {
+            "ctg_id": "0781",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "롱부츠"
+        },
+        {
+            "ctg_id": "0782",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "앵클부츠"
+        },
+        {
+            "ctg_id": "0783",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "벨트"
+        },
+        {
+            "ctg_id": "0784",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "머플러"
+        },
+        {
+            "ctg_id": "0785",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "넥타이"
+        },
+        {
+            "ctg_id": "0786",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "선글라스"
+        },
+        {
+            "ctg_id": "0787",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "스냅백"
+        },
+        {
+            "ctg_id": "0788",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "서류가방"
+        },
+        {
+            "ctg_id": "0789",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "핸드백(토트백)"
+        },
+        {
+            "ctg_id": "0790",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "베레모"
+        },
+        {
+            "ctg_id": "0791",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "중절모"
+        },
+        {
+            "ctg_id": "0792",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "비니"
+        },
+        {
+            "ctg_id": "0793",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "털모자"
+        },
+        {
+            "ctg_id": "0794",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "귀마개"
+        },
+        {
+            "ctg_id": "0795",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "손가락장갑"
+        },
+        {
+            "ctg_id": "0796",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "벙어리장갑"
+        },
+        {
+            "ctg_id": "0797",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "장지갑"
+        },
+        {
+            "ctg_id": "0798",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "중지갑/반지갑"
+        },
+        {
+            "ctg_id": "0799",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "카드지갑"
+        },
+        {
+            "ctg_id": "0800",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "동전지갑"
+        },
+        {
+            "ctg_id": "0801",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "발목양말"
+        },
+        {
+            "ctg_id": "0802",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "장목양말"
+        },
+        {
+            "ctg_id": "0803",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "덧신"
+        },
+        {
+            "ctg_id": "0804",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "우산"
+        },
+        {
+            "ctg_id": "0805",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "캔버스화"
+        },
+        {
+            "ctg_id": "0806",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "고무신"
+        },
+        {
+            "ctg_id": "0807",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "나비넥타이"
+        },
+        {
+            "ctg_id": "0808",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "모자(캡)"
+        },
+        {
+            "ctg_id": "0809",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "카우보이모자"
+        },
+        {
+            "ctg_id": "0810",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화/가방",
+            "ctg_nm_level3": "학사모"
+        },
+        {
+            "ctg_id": "0811",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화기타",
+            "ctg_nm_level3": "가발"
+        },
+        {
+            "ctg_id": "0812",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화기타",
+            "ctg_nm_level3": "옷걸이(삼각형)"
+        },
+        {
+            "ctg_id": "0813",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화기타",
+            "ctg_nm_level3": "옷핀"
+        },
+        {
+            "ctg_id": "0814",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화기타",
+            "ctg_nm_level3": "가면"
+        },
+        {
+            "ctg_id": "0815",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "잡화기타",
+            "ctg_nm_level3": "옷걸이(바지걸이)"
+        },
+        {
+            "ctg_id": "0816",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "귀걸이"
+        },
+        {
+            "ctg_id": "0817",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "목걸이"
+        },
+        {
+            "ctg_id": "0818",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "팔찌"
+        },
+        {
+            "ctg_id": "0819",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "일반 손목시계"
+        },
+        {
+            "ctg_id": "0820",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "전자 손목시계"
+        },
+        {
+            "ctg_id": "0821",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "반지"
+        },
+        {
+            "ctg_id": "0822",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "브로치"
+        },
+        {
+            "ctg_id": "0823",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "머리띠"
+        },
+        {
+            "ctg_id": "0824",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "머리핀"
+        },
+        {
+            "ctg_id": "0825",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "왕관"
+        },
+        {
+            "ctg_id": "0826",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "액세서리",
+            "ctg_nm_level3": "보석"
+        },
+        {
+            "ctg_id": "0827",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "화장품",
+            "ctg_nm_level3": "마스카라"
+        },
+        {
+            "ctg_id": "0828",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "화장품",
+            "ctg_nm_level3": "매니큐어"
+        },
+        {
+            "ctg_id": "0829",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "화장품",
+            "ctg_nm_level3": "팩트"
+        },
+        {
+            "ctg_id": "0830",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "화장품",
+            "ctg_nm_level3": "스프레이"
+        },
+        {
+            "ctg_id": "0831",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "화장품",
+            "ctg_nm_level3": "향수"
+        },
+        {
+            "ctg_id": "0832",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "화장품",
+            "ctg_nm_level3": "틴트/립글로스"
+        },
+        {
+            "ctg_id": "0833",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "화장품",
+            "ctg_nm_level3": "립스틱"
+        },
+        {
+            "ctg_id": "0834",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "반바지"
+        },
+        {
+            "ctg_id": "0835",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "코트"
+        },
+        {
+            "ctg_id": "0836",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "블라우스/셔츠"
+        },
+        {
+            "ctg_id": "0837",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "조끼"
+        },
+        {
+            "ctg_id": "0838",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "니트/스웨터"
+        },
+        {
+            "ctg_id": "0839",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "카디건"
+        },
+        {
+            "ctg_id": "0840",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "원피스"
+        },
+        {
+            "ctg_id": "0841",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "티셔츠"
+        },
+        {
+            "ctg_id": "0842",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "점퍼"
+        },
+        {
+            "ctg_id": "0843",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "의사가운"
+        },
+        {
+            "ctg_id": "0844",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "기모노"
+        },
+        {
+            "ctg_id": "0845",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "드레스"
+        },
+        {
+            "ctg_id": "0846",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "양복"
+        },
+        {
+            "ctg_id": "0847",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "후드티"
+        },
+        {
+            "ctg_id": "0848",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "재킷"
+        },
+        {
+            "ctg_id": "0849",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "청바지"
+        },
+        {
+            "ctg_id": "0850",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "트레이닝복"
+        },
+        {
+            "ctg_id": "0851",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "한복"
+        },
+        {
+            "ctg_id": "0852",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "남성수영복"
+        },
+        {
+            "ctg_id": "0853",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "여성수영복(비키니형)"
+        },
+        {
+            "ctg_id": "0854",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "브라"
+        },
+        {
+            "ctg_id": "0855",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "남성용팬티"
+        },
+        {
+            "ctg_id": "0856",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "여성용팬티"
+        },
+        {
+            "ctg_id": "0857",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "잠옷"
+        },
+        {
+            "ctg_id": "0858",
+            "ctg_nm_level1": "의류잡화",
+            "ctg_nm_level2": "의류/속옷",
+            "ctg_nm_level3": "러닝셔츠"
+        },
+        {
+            "ctg_id": "0859",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "차량기타",
+            "ctg_nm_level3": "타이어/휠"
+        },
+        {
+            "ctg_id": "0860",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "차량기타",
+            "ctg_nm_level3": "자동차용 계기판"
+        },
+        {
+            "ctg_id": "0861",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "차량기타",
+            "ctg_nm_level3": "변속레버"
+        },
+        {
+            "ctg_id": "0862",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "차량기타",
+            "ctg_nm_level3": "스티어링휠(차량용 핸들)"
+        },
+        {
+            "ctg_id": "0863",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "차량기타",
+            "ctg_nm_level3": "바퀴"
+        },
+        {
+            "ctg_id": "0864",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "차량기타",
+            "ctg_nm_level3": "주유기"
+        },
+        {
+            "ctg_id": "0865",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "오토바이"
+        },
+        {
+            "ctg_id": "0866",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "전동킥보드"
+        },
+        {
+            "ctg_id": "0867",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "전동휠"
+        },
+        {
+            "ctg_id": "0868",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "트럭"
+        },
+        {
+            "ctg_id": "0869",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "포크레인"
+        },
+        {
+            "ctg_id": "0870",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "불도저"
+        },
+        {
+            "ctg_id": "0871",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "캠핑카"
+        },
+        {
+            "ctg_id": "0872",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "견인차"
+        },
+        {
+            "ctg_id": "0873",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "구급차"
+        },
+        {
+            "ctg_id": "0874",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "승용차"
+        },
+        {
+            "ctg_id": "0875",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "경찰차"
+        },
+        {
+            "ctg_id": "0876",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "탱크"
+        },
+        {
+            "ctg_id": "0877",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "군용차"
+        },
+        {
+            "ctg_id": "0878",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "소방차"
+        },
+        {
+            "ctg_id": "0879",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "트레일러"
+        },
+        {
+            "ctg_id": "0880",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "굴착기"
+        },
+        {
+            "ctg_id": "0881",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "쇼핑카트"
+        },
+        {
+            "ctg_id": "0882",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "리어카"
+        },
+        {
+            "ctg_id": "0883",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "고속열차"
+        },
+        {
+            "ctg_id": "0884",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "오픈카"
+        },
+        {
+            "ctg_id": "0885",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "지게차"
+        },
+        {
+            "ctg_id": "0886",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "골프카트"
+        },
+        {
+            "ctg_id": "0887",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "쓰레기수거차"
+        },
+        {
+            "ctg_id": "0888",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "인력거"
+        },
+        {
+            "ctg_id": "0889",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "지프차"
+        },
+        {
+            "ctg_id": "0890",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "마차"
+        },
+        {
+            "ctg_id": "0891",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "리무진"
+        },
+        {
+            "ctg_id": "0892",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "스쿨버스"
+        },
+        {
+            "ctg_id": "0893",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "스포츠카"
+        },
+        {
+            "ctg_id": "0894",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "제설차"
+        },
+        {
+            "ctg_id": "0895",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "외발자전거"
+        },
+        {
+            "ctg_id": "0896",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "세발자전거"
+        },
+        {
+            "ctg_id": "0897",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "트랙터"
+        },
+        {
+            "ctg_id": "0898",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "기차"
+        },
+        {
+            "ctg_id": "0899",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "승합차(미니밴)"
+        },
+        {
+            "ctg_id": "0900",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "suv자동차"
+        },
+        {
+            "ctg_id": "0901",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "레이싱카"
+        },
+        {
+            "ctg_id": "0902",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "버스"
+        },
+        {
+            "ctg_id": "0903",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "크레인(기중기)"
+        },
+        {
+            "ctg_id": "0904",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "육상운송",
+            "ctg_nm_level3": "택시"
+        },
+        {
+            "ctg_id": "0905",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "항공운송",
+            "ctg_nm_level3": "헬리콥터"
+        },
+        {
+            "ctg_id": "0906",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "항공운송",
+            "ctg_nm_level3": "비행기"
+        },
+        {
+            "ctg_id": "0907",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "항공운송",
+            "ctg_nm_level3": "전투기"
+        },
+        {
+            "ctg_id": "0908",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "항공운송",
+            "ctg_nm_level3": "소형비행선"
+        },
+        {
+            "ctg_id": "0909",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "항공운송",
+            "ctg_nm_level3": "열기구"
+        },
+        {
+            "ctg_id": "0910",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "유람선"
+        },
+        {
+            "ctg_id": "0911",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "화물선"
+        },
+        {
+            "ctg_id": "0912",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "항공모함"
+        },
+        {
+            "ctg_id": "0913",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "곤돌라"
+        },
+        {
+            "ctg_id": "0914",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "범선"
+        },
+        {
+            "ctg_id": "0915",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "요트"
+        },
+        {
+            "ctg_id": "0916",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "잠수함"
+        },
+        {
+            "ctg_id": "0917",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "여객선"
+        },
+        {
+            "ctg_id": "0918",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "해상운송",
+            "ctg_nm_level3": "어선"
+        },
+        {
+            "ctg_id": "0919",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "우주항공",
+            "ctg_nm_level3": "우주선"
+        },
+        {
+            "ctg_id": "0920",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "우주항공",
+            "ctg_nm_level3": "인공위성"
+        },
+        {
+            "ctg_id": "0921",
+            "ctg_nm_level1": "차량/운송",
+            "ctg_nm_level2": "우주항공",
+            "ctg_nm_level3": "로켓"
+        },
+        {
+            "ctg_id": "0922",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "에펠탑"
+        },
+        {
+            "ctg_id": "0923",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "스핑크스"
+        },
+        {
+            "ctg_id": "0924",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "타지마할"
+        },
+        {
+            "ctg_id": "0925",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "피라미드"
+        },
+        {
+            "ctg_id": "0926",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "자유의 여신상"
+        },
+        {
+            "ctg_id": "0927",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "콜로세움"
+        },
+        {
+            "ctg_id": "0928",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "도쿄타워"
+        },
+        {
+            "ctg_id": "0929",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "동방명주"
+        },
+        {
+            "ctg_id": "0930",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "마리나베이샌즈"
+        },
+        {
+            "ctg_id": "0931",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "앙코르와트"
+        },
+        {
+            "ctg_id": "0932",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "루브르 박물관"
+        },
+        {
+            "ctg_id": "0933",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "엠파이어스테이트 빌딩"
+        },
+        {
+            "ctg_id": "0934",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "자금성"
+        },
+        {
+            "ctg_id": "0935",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "유니버셜 스튜디오(지구본)"
+        },
+        {
+            "ctg_id": "0936",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "랜드마크",
+            "ctg_nm_level3": "런던브릿지"
+        },
+        {
+            "ctg_id": "0937",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "신전"
+        },
+        {
+            "ctg_id": "0938",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "풍력발전기"
+        },
+        {
+            "ctg_id": "0939",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "난간"
+        },
+        {
+            "ctg_id": "0940",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "분수"
+        },
+        {
+            "ctg_id": "0941",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "건물"
+        },
+        {
+            "ctg_id": "0942",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "가로등"
+        },
+        {
+            "ctg_id": "0943",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "교량(다리)"
+        },
+        {
+            "ctg_id": "0944",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "병원"
+        },
+        {
+            "ctg_id": "0945",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "성(Castle)"
+        },
+        {
+            "ctg_id": "0946",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "교회"
+        },
+        {
+            "ctg_id": "0947",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "집/창고"
+        },
+        {
+            "ctg_id": "0948",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "신호등"
+        },
+        {
+            "ctg_id": "0949",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "바이킹"
+        },
+        {
+            "ctg_id": "0950",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "관람차"
+        },
+        {
+            "ctg_id": "0951",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "등대"
+        },
+        {
+            "ctg_id": "0952",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "회전목마"
+        },
+        {
+            "ctg_id": "0953",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "온실"
+        },
+        {
+            "ctg_id": "0954",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "단두대"
+        },
+        {
+            "ctg_id": "0955",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "공중전화"
+        },
+        {
+            "ctg_id": "0956",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "소화전"
+        },
+        {
+            "ctg_id": "0957",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "우체통/우편함"
+        },
+        {
+            "ctg_id": "0958",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "위성안테나"
+        },
+        {
+            "ctg_id": "0959",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "풍차"
+        },
+        {
+            "ctg_id": "0960",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "표지판"
+        },
+        {
+            "ctg_id": "0961",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "게르"
+        },
+        {
+            "ctg_id": "0962",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "이발소간판"
+        },
+        {
+            "ctg_id": "0963",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "건축물/구조물",
+            "ctg_nm_level3": "급수탑"
+        },
+        {
+            "ctg_id": "0964",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "토성"
+        },
+        {
+            "ctg_id": "0965",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "별"
+        },
+        {
+            "ctg_id": "0966",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "태양"
+        },
+        {
+            "ctg_id": "0967",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "별똥별"
+        },
+        {
+            "ctg_id": "0968",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "우주인"
+        },
+        {
+            "ctg_id": "0969",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "초승달"
+        },
+        {
+            "ctg_id": "0970",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "모닥불"
+        },
+        {
+            "ctg_id": "0971",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "구름"
+        },
+        {
+            "ctg_id": "0972",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "눈송이"
+        },
+        {
+            "ctg_id": "0973",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "화산"
+        },
+        {
+            "ctg_id": "0974",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "산"
+        },
+        {
+            "ctg_id": "0975",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "무지개"
+        },
+        {
+            "ctg_id": "0976",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "볏짚"
+        },
+        {
+            "ctg_id": "0977",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "우주/자연물",
+            "ctg_nm_level3": "눈사람"
+        },
+        {
+            "ctg_id": "0978",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "활"
+        },
+        {
+            "ctg_id": "0979",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "대포"
+        },
+        {
+            "ctg_id": "0980",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "수류탄"
+        },
+        {
+            "ctg_id": "0981",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "낙하산"
+        },
+        {
+            "ctg_id": "0982",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "권총"
+        },
+        {
+            "ctg_id": "0983",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "기관총"
+        },
+        {
+            "ctg_id": "0984",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "검"
+        },
+        {
+            "ctg_id": "0985",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "무전기"
+        },
+        {
+            "ctg_id": "0986",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "미사일"
+        },
+        {
+            "ctg_id": "0987",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "군사/무기",
+            "ctg_nm_level3": "철도 레일"
+        },
+        {
+            "ctg_id": "0988",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "뇌"
+        },
+        {
+            "ctg_id": "0989",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "심장"
+        },
+        {
+            "ctg_id": "0990",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "손"
+        },
+        {
+            "ctg_id": "0991",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "발"
+        },
+        {
+            "ctg_id": "0992",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "귀"
+        },
+        {
+            "ctg_id": "0993",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "코"
+        },
+        {
+            "ctg_id": "0994",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "눈"
+        },
+        {
+            "ctg_id": "0995",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "입술/입"
+        },
+        {
+            "ctg_id": "0996",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "눈썹"
+        },
+        {
+            "ctg_id": "0997",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "수염"
+        },
+        {
+            "ctg_id": "0998",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "위장"
+        },
+        {
+            "ctg_id": "0999",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "팔"
+        },
+        {
+            "ctg_id": "1000",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "이빨/치아"
+        },
+        {
+            "ctg_id": "1001",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "얼굴"
+        },
+        {
+            "ctg_id": "1002",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "뼈/해골"
+        },
+        {
+            "ctg_id": "1003",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "앉아있는 사람"
+        },
+        {
+            "ctg_id": "1004",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "걷는 사람"
+        },
+        {
+            "ctg_id": "1005",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "산타클로스"
+        },
+        {
+            "ctg_id": "1006",
+            "ctg_nm_level1": "기타",
+            "ctg_nm_level2": "인체/직업",
+            "ctg_nm_level3": "잠수부"
+        }
+    ]
+}
