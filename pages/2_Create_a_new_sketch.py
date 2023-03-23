@@ -89,7 +89,7 @@ else:
 
         # white version
         array_255 = np.full(len(final_array), 255)
-        final = np.abs(final_array - array_255)
+        final = np.abs(array_255 - final_array)
 
         final_img_black = np.array(final).reshape(w, h)
         plt.imsave('final_white_sketch.jpeg', final_img_black, cmap=cm.gray)
