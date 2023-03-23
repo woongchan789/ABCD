@@ -30,14 +30,8 @@ class ReturnType(Enum):
     NDARRAY = 2
 
 
-def alpha_matting_cutout(
-    img: PILImage,
-    mask: PILImage,
-    foreground_threshold: int,
-    background_threshold: int,
-    erode_structure_size: int,
-) -> PILImage:
-
+def alpha_matting_cutout(img, mask, foreground_threshold, background_threshold, erode_structure_size):
+    
     if img.mode == "RGBA" or img.mode == "CMYK":
         img = img.convert("RGB")
 
@@ -73,42 +67,36 @@ def alpha_matting_cutout(
     return cutout
 
 
-def naive_cutout(img: PILImage, mask: PILImage) -> PILImage:
+def naive_cutout(img, mask):
     empty = Image.new("RGBA", (img.size), 0)
     cutout = Image.composite(img, empty, mask)
     return cutout
 
 
-def get_concat_v_multi(imgs: List[PILImage]) -> PILImage:
+def get_concat_v_multi(imgs):
     pivot = imgs.pop(0)
     for im in imgs:
         pivot = get_concat_v(pivot, im)
     return pivot
 
 
-def get_concat_v(img1: PILImage, img2: PILImage) -> PILImage:
+def get_concat_v(img1, img2):
     dst = Image.new("RGBA", (img1.width, img1.height + img2.height))
     dst.paste(img1, (0, 0))
     dst.paste(img2, (0, img1.height))
     return dst
 
 
-def post_process(mask: np.ndarray) -> np.ndarray:
+def post_process(mask):
     mask = morphologyEx(mask, MORPH_OPEN, kernel)
     mask = GaussianBlur(mask, (5, 5), sigmaX=2, sigmaY=2, borderType=BORDER_DEFAULT)
-    mask = np.where(mask < 127, 0, 255).astype(np.uint8)  # convert again to binary
+    mask = np.where(mask < 127, 0, 255).astype(np.uint8)
     return mask
 
 
-def remove(
-    data: Union[bytes, PILImage, np.ndarray],
-    alpha_matting: bool = False,
-    alpha_matting_foreground_threshold: int = 240,
-    alpha_matting_background_threshold: int = 10,
-    alpha_matting_erode_size: int = 10,
-    only_mask: bool = False,
-    post_process_mask: bool = False,
-) -> Union[bytes, PILImage, np.ndarray]:
+def remove(data, alpha_matting=False, alpha_matting_foreground_threshold=240,
+           alpha_matting_background_threshold=10, alpha_matting_erode_size=10,
+           only_mask=False, post_process_mask=False) :
 
     if isinstance(data, PILImage):
         return_type = ReturnType.PILLOW
@@ -168,17 +156,11 @@ def remove(
     return bio.read()
 
 class BaseSession:
-    def __init__(self, model_name: str, inner_session: ort.InferenceSession):
+    def __init__(self, model_name, inner_session):
         self.model_name = model_name
         self.inner_session = inner_session
 
-    def normalize(
-        self,
-        img: PILImage,
-        mean: Tuple[float, float, float],
-        std: Tuple[float, float, float],
-        size: Tuple[int, int],
-    ) -> Dict[str, np.ndarray]:
+    def normalize(self, img, mean, std,size):
         im = img.convert("RGB").resize(size, Image.LANCZOS)
 
         im_ary = np.array(im)
@@ -197,10 +179,10 @@ class BaseSession:
             .astype(np.float32)
         }
 
-    def predict(self, img: PILImage) -> List[PILImage]:
+    def predict(self, img):
         raise NotImplementedError
 
-def new_session(model_name: str = "u2net") -> BaseSession:
+def new_session(model_name = "u2net"):
     session_class: Type[BaseSession]
     md5 = "60024c5c889badc19c04ad937298a77b"
     url = "https://github.com/danielgatis/rembg/releases/download/v0.0.0/u2net.onnx"
@@ -237,12 +219,10 @@ def new_session(model_name: str = "u2net") -> BaseSession:
     )
 
 class SimpleSession(BaseSession):
-    def predict(self, img: PILImage) -> List[PILImage]:
+    def predict(self, img):
         ort_outs = self.inner_session.run(
             None,
-            self.normalize(
-                img, (0.485, 0.456, 0.406), (0.229, 0.224, 0.225), (320, 320)
-            ),
+            self.normalize(img, (0.485, 0.456, 0.406), (0.229, 0.224, 0.225), (320, 320)),
         )
 
         pred = ort_outs[0][:, 0, :, :]
