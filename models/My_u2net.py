@@ -27,21 +27,6 @@ def naive_cutout(img, mask):
     cutout = Image.composite(img, empty, mask)
     return cutout
 
-
-def get_concat_v_multi(imgs):
-    pivot = imgs.pop(0)
-    for im in imgs:
-        pivot = get_concat_v(pivot, im)
-    return pivot
-
-
-def get_concat_v(img1, img2):
-    dst = Image.new("RGBA", (img1.width, img1.height + img2.height))
-    dst.paste(img1, (0, 0))
-    dst.paste(img2, (0, img1.height))
-    return dst
-
-
 def post_process(mask):
     mask = morphologyEx(mask, MORPH_OPEN, getStructuringElement(MORPH_ELLIPSE, (3, 3)))
     mask = GaussianBlur(mask, (5, 5), sigmaX=2, sigmaY=2, borderType=BORDER_DEFAULT)
@@ -66,17 +51,11 @@ def remove(data, post_process_mask=False) :
     session = new_session("u2net")
 
     masks = session.predict(img)
-    cutouts = []
+    mask = masks[0]
 
-    for mask in masks:
-        if post_process_mask:
-            mask = Image.fromarray(post_process(np.array(mask)))
-        cutout = naive_cutout(img, mask)
-        cutouts.append(cutout)
-
-    cutout = img
-    if len(cutouts) > 0:
-        cutout = get_concat_v_multi(cutouts)
+    if post_process_mask:
+        mask = Image.fromarray(post_process(np.array(mask)))
+    cutout = naive_cutout(img, mask)
 
     if ReturnType.PILLOW == return_type:
         return cutout
@@ -84,12 +63,9 @@ def remove(data, post_process_mask=False) :
     if ReturnType.NDARRAY == return_type:
         return np.asarray(cutout)
 
-    bio = io.BytesIO()
-    cutout.save(bio, "PNG")
-    bio.seek(0)
+    return cutout
 
-    return bio.read()
-
+# onnx session
 class BaseSession:
     def __init__(self, model_name, inner_session):
         self.model_name = model_name
