@@ -37,7 +37,7 @@ def gram_matrix(input):
     G = torch.mm(features, features.t())
     return G.div(a * b * c * d)
 
-cnn = VGG19().features.to(device).eval()
+cnn = VGG19().features.to(device).eval() # input_img network
 
 class Normalization(nn.Module):
     def __init__(self, mean, std):
