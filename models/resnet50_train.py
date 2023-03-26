@@ -127,7 +127,7 @@ num_epochs = 100
 optimizer = optim.Adam(model.parameters(), lr=lr)
 
 # loss function으로 Retinanet에서 사용되는 Focal loss 사용
-loss_function = FocalLoss().to(device)
+loss_function = FocalLoss(gamma=2, alpha=0.25).to(device)
 
 params = {
     'num_epochs':num_epochs,
